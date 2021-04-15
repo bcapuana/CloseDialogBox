@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressOKButton", "PressOKButton\PressOKButton.csproj", "{9CBAC7DB-7AC8-4A30-ADE1-23E48105839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBAC7DB-7AC8-4A30-ADE1-23E48105839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBAC7DB-7AC8-4A30-ADE1-23E48105839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBAC7DB-7AC8-4A30-ADE1-23E48105839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBAC7DB-7AC8-4A30-ADE1-23E48105839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAA34AD-CF31-4E24-A604-E63BCA3E4B64}
+	EndGlobalSection
+EndGlobal
