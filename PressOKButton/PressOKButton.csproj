@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnsafeNativeMethods.cs" />
+    <Compile Include="Window.cs" />
+    <Compile Include="WindowWatchdog.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
